@@ -1,0 +1,11 @@
+$librebodoni-font-path: "../../font/librebodoni" !default;
+
+@font-face {
+  font-family: "LibreBodoni";
+  src: url("#{$librebodoni-font-path}/LibreBodoni-Regular.woff2") format("woff2"),
+    url("#{$librebodoni-font-path}/LibreBodoni-Regular.woff") format("woff"),
+    url("#{$librebodoni-font-path}/LibreBodoni-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

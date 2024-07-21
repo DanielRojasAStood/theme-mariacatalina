@@ -1,0 +1,11 @@
+$highspirited-font-path: "../../font/highspirited" !default;
+
+@font-face {
+  font-family: "HighSpirited";
+  src: url("#{$highspirited-font-path}/HighSpirited.woff2") format("woff2"),
+    url("#{$highspirited-font-path}/HighSpirited.woff") format("woff"),
+    url("#{$highspirited-font-path}/HighSpirited.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

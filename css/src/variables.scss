@@ -28,6 +28,7 @@
   --40: 40px;
   --64: 64px;
   --70: 70px;
+  --90: 90px;
   --96: 96px;
   --122: 122px;
 }
@@ -123,7 +124,7 @@ p {
 
   &--122 {
     font-family: var(--font-highspirited);
-    font-size: var(--96);
+    font-size: var(--90);
 
     @media only screen and (min-width: 1024px) {
       font-size: var(--122);

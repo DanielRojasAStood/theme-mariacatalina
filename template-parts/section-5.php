@@ -10,14 +10,14 @@ $items = [
         "link" => "#restaurants"
 
     ],
-    [
+    /* [
         "name" => "BRUNCH & DESSERTS",
-        "link" => "#brunch-desserts"
+        "link" => "#brunchdesserts"
 
-    ],
+    ], */
     [
         "name" => "BARS & PUBS",
-        "link" => "#bars-pubs"
+        "link" => "#barpubs"
 
     ],
     [
@@ -27,7 +27,7 @@ $items = [
     ],
     [
         "name" => "BEAUTY SALONS",
-        "link" => "#beauty-salons"
+        "link" => "#beautysalons"
 
     ]
 ]
@@ -57,7 +57,7 @@ $items = [
         <ul>
             <?php foreach ($items as $key => $item) { ?>
                 <li>
-                    <a class="heading--40" href="/<?php echo $item['link']; ?>"><?php echo $item['name']; ?></a>
+                    <a class="heading--40" href="/santamarta/<?php echo $item['link']; ?>"><?php echo $item['name']; ?></a>
                 </li>
             <?php } ?>
         </ul>

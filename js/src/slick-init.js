@@ -69,5 +69,26 @@ export function initSlickCarousels() {
     });
   }
 
+  function setEqualHeight() {
+    var maxHeightH3 = 0;
+    var maxHeightP = 0;
+    $(".sectionPlaces__info h3").each(function () {
+      var itemHeightH3 = $(this).outerHeight();
+      if (itemHeightH3 > maxHeightH3) {
+        maxHeightH3 = itemHeightH3;
+      }
+    });
+    $(".sectionPlaces__info h3").css("height", maxHeightH3);
+
+    $(".sectionPlaces__info p").each(function () {
+      var itemHeightP = $(this).outerHeight();
+      if (itemHeightP > maxHeightP) {
+        maxHeightP = itemHeightP;
+      }
+    });
+    $(".sectionPlaces__info p").css("height", maxHeightP);
+  }
+  setEqualHeight();
+
   $(window).on("load resize", initSlick);
 }

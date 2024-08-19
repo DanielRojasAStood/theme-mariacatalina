@@ -45,15 +45,15 @@
   </a>
   <nav>
     <ul class="header__menu">
-      <li><a class="header__link" href="#wedding">WEDDING</a></li>
-      <li><a class="header__link" href="#events">EVENTS</a></li>
+      <li><a class="header__link" data-link href="/#wedding">WEDDING</a></li>
+      <li><a class="header__link" data-link href="/#events">EVENTS</a></li>
       <li>
         <a href="/">
           <img src="<?php echo IMG_BASE . 'logo.svg' ?>" class="header__logo" alt="" id="" />
         </a>
       </li>
-      <li><a class="header__link" href="#santa-marta">SANTA MARTA</a></li>
-      <li><a class="header__link" href="#rsvp">R.S.V.P.</a></li>
+      <li><a class="header__link" data-link href="/santamarta">SANTA MARTA</a></li>
+      <li><a class="header__link" data-link href="/#rsvp">R.S.V.P.</a></li>
     </ul>
   </nav>
   <button type="button" class="header__button" data-toggle-menu>
@@ -67,15 +67,15 @@
 <section class="menu-mobile" data-menu-mobile>
   <nav>
     <ul class="header__menu">
-      <li><a class="header__link" href="#wedding">WEDDING</a></li>
-      <li><a class="header__link" href="#events">EVENTS</a></li>
+      <li><a class="header__link" data-link href="/#wedding">WEDDING</a></li>
+      <li><a class="header__link" data-link href="/#events">EVENTS</a></li>
       <li>
         <a href="/">
           <img src="<?php echo IMG_BASE . 'logo.svg' ?>" class="header__logo" alt="" id="" />
         </a>
       </li>
-      <li><a class="header__link" href="#santa-marta">SANTA MARTA</a></li>
-      <li><a class="header__link" href="#rsvp">R.S.V.P.</a></li>
+      <li><a class="header__link" data-link href="/santamarta">SANTA MARTA</a></li>
+      <li><a class="header__link" data-link href="/#rsvp">R.S.V.P.</a></li>
     </ul>
   </nav>
 </section>

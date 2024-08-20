@@ -103,12 +103,12 @@ $places = [
             "img" => "restaurant-7.jpeg",
             "name" => "Porthos Steakhouse & Pub",
             "address" => "Calle 19 # 3 - 25",
-            "location" => "Santa Marta, Magdalenaß",
+            "location" => "Santa Marta, Magdalena",
             "phone" => "57 324 2912065",
             "instagram" => "https://www.porthos.com.co/menu"
         ],
         [
-            "img" => "restaurant-8.png",
+            "img" => "restaurant-8.jpeg",
             "name" => "Topping Burgers",
             "address" => "Calle 19 # 3 - 9",
             "location" => "Santa Marta, Magdalena",

@@ -19,7 +19,7 @@
             <div class="space space--15"></div>
             <p class="heading--24"> Capilla Alcatraces</p>
             <div class="space space--30"></div>
-            <a href="" class="button button--primary button--center" target="_blank">Location</a>
+            <a href="https://maps.app.goo.gl/QjrxtqZqjtRSbfyw7" class="button button--primary button--center" target="_blank">Location</a>
             <div class="space space--30"></div>
             <h2 class="heading--96 color--A98417">Reception</h2>
             <div class="space space--11"></div>
@@ -29,7 +29,7 @@
             <div class="space space--15"></div>
             <p class="heading--24">Casa Kapicua</p>
             <div class="space space--30"></div>
-            <a href="" class="button button--primary button--center" target="_blank">Location</a>
+            <a href="https://maps.app.goo.gl/2K2H8pvfZkvZ26c5A" class="button button--primary button--center" target="_blank">Location</a>
             <div class="space space--44"></div>
 
             <div class="flex gap--80">

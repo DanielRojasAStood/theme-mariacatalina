@@ -15,13 +15,13 @@
                 <h2 class="heading--122 color--A98417">Amortentia</h2>
                 <p class="heading--20 color--666">AMORTENTIA</p>
                 <div class="space space--30"></div>
-                <p class="heading--24"> Pending Date</p>
+                <p class="heading--24"> March 7th, 2025</p>
                 <div class="space space--15"></div>
-                <p class="heading--24"> 0:00 P.M.</p>
+                <p class="heading--24"> 5:00 P.M.</p>
                 <div class="space space--15"></div>
-                <p class="heading--24"> Location Name</p>
+                <p class="heading--24"> Burukuka Restaurant</p>
                 <div class="space space--30"></div>
-                <a href="" class="button button--primary button--center" target="_blank">Location</a>
+                <a href="https://maps.app.goo.gl/kbkZZRxVNwFpWPqk6" class="button button--primary button--center" target="_blank">Location</a>
                 <div class="space space--44"></div>
                 <p class="heading--24">DRESS CODE</p>
                 <div class="space space--11"></div>

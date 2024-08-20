@@ -33,7 +33,7 @@ $places = [
             "instagram" => "https://www.instagram.com/mercuresantamarta/"
         ],
         [
-            "img" => "hotel-4.png",
+            "img" => "hotel-4.jpg",
             "name" => "GHL Relax Hotel Kosta Azul",
             "address" => "Km. 19 vía Santa Marta",
             "location" => "Ciénaga, Santa Marta",
@@ -41,7 +41,7 @@ $places = [
             "instagram" => "https://www.ghlhoteles.com/hoteles/colombia/santa-marta/ghl-relax-costa-azul/"
         ],
         [
-            "img" => "hotel-5.png",
+            "img" => "hotel-5.jpg",
             "name" => "Hotel Santorini Casa Blanca",
             "address" => "Km. 17 vía Santa Marta",
             "location" => "Ciénaga, Santa Marta",
@@ -76,7 +76,7 @@ $places = [
             "instagram" => "https://www.instagram.com/aguaderio_smr/"
         ],
         [
-            "img" => "restaurant-4.png",
+            "img" => "restaurant-4.jpeg",
             "name" => "Casa Magdalena",
             "address" => "Calle 17 # 2 - 09",
             "location" => "Santa Marta, Magdalena",
@@ -84,7 +84,7 @@ $places = [
             "instagram" => "https://www.instagram.com/casamagdalena_smr/"
         ],
         [
-            "img" => "restaurant-5.png",
+            "img" => "restaurant-5.jpg",
             "name" => "Holguer Pizza",
             "address" => "Calle 19 # 3 - 07",
             "location" => "Santa Marta, Magdalena",
@@ -92,7 +92,7 @@ $places = [
             "instagram" => "https://holguerpizza.com"
         ],
         [
-            "img" => "restaurant-6.png",
+            "img" => "restaurant-6.jpeg",
             "name" => "Lulo Café Bar",
             "address" => "Cra. 3 # 16 - 34",
             "location" => "Santa Marta, Magdalena",
@@ -100,10 +100,10 @@ $places = [
             "instagram" => "https://www.instagram.com/lulocafebar/"
         ],
         [
-            "img" => "restaurant-7.png",
+            "img" => "restaurant-7.jpeg",
             "name" => "Porthos Steakhouse & Pub",
             "address" => "Calle 19 # 3 - 25",
-            "location" => "Santa Marta, Magdalena",
+            "location" => "Santa Marta, Magdalenaß",
             "phone" => "57 324 2912065",
             "instagram" => "https://www.porthos.com.co/menu"
         ],

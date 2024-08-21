@@ -47,6 +47,14 @@ $places = [
             "location" => "Ciénaga, Santa Marta",
             "phone" => "57 605 4329400",
             "instagram" => "https://hotelsantorini.com.co/hotel-santorini-casablanca/"
+        ],
+        [
+            "img" => "hotel-6.jpg",
+            "name" => "Decameron Galeón",
+            "address" => "Km 17, vía Ciénaga",
+            "location" => "Santa Marta, Colombia",
+            "phone" => "57 605 4237200",
+            "instagram" => "https://www.decameron.com/es/ec-destinos/colombia/santa-marta/decameron-galeon"
         ]
     ],
 

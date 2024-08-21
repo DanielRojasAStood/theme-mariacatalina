@@ -27,7 +27,7 @@
                 <div class="space space--11"></div>
                 <p class="heading--20">VESTIMENTA</p>
                 <div class="space space--19"></div>
-                <button type="button" class="button button--primary button--center" data-open-modal="modal-2">PENDING</button>
+                <button type="button" class="button button--primary button--center" data-open-modal="modal-2">FORMAL WHITE</button>
             </div>
         </div>
     </div>

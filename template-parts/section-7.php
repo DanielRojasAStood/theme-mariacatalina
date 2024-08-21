@@ -158,7 +158,7 @@ $placesBarranquilla = [
     <div class="sectionPlaces__wrapper cartagena">
         <div class="sectionPlaces__title">
             <h2 class="heading--122 color--A98417">Cartagena</h2>
-            <p class="heading--20 color--666">PLACES TO VISIT</p>
+            <p class="heading--20 color--666">PLACES TO VISIT / LUGARES PARA VISITAR</p>
             <div class="space space--44"></div>
 
             <div class="slickPlaces">
@@ -181,7 +181,7 @@ $placesBarranquilla = [
     <div class="sectionPlaces__wrapper">
         <div class="sectionPlaces__title">
             <h2 class="heading--122 color--A98417">Barranquilla</h2>
-            <p class="heading--20 color--666">PLACES TO VISIT</p>
+            <p class="heading--20 color--666">PLACES TO VISIT / LUGARES PARA VISITAR</p>
             <div class="space space--44"></div>
 
             <div class="slickPlaces">

@@ -43,16 +43,13 @@ $items = [
             <div class="space space--30"></div>
 
             <p class="heading--20 color--666">
-            We are very excited to celebrate our wedding in Santa Marta, the Pearl of America! This historic city, founded in 1525, is the oldest in the country and stands out for its diversity in landscape, people and culture, making all visitors feel at home.
+            We are very excited to celebrate our wedding in Santa Marta, the Pearl of America! As Colombia's oldest city, it welcomes everyone with its rich culture and diverse landscapes—from lush mountains to stunning beaches and the Sierra Nevada. Santa Marta offers a perfect blend of culture, history, and nature, making it a truly unique destination.
             </p>
             <div class="space space--19"></div>
             <p class="heading--20 color--666">
-            Santa Marta is unique for its unforgettable landscapes: the green vegetation, the mountains, the blue sea, the yellow sun and the beaches that contrast with the white Sierra Nevada. The city offers activities for everyone, from beaches that merge with the jungle to bird watching and exploring Tayrona colonial treasures.
+            Estamos muy emocionados de celebrar nuestra boda en Santa Marta, ¡La Perla de América! Como la ciudad más antigua de Colombia, da la bienvenida a todo el mundo con su rica cultura y diversos paisajes, desde exuberantes montañas hasta impresionantes playas y la Sierra Nevada. Santa Marta ofrece una mezcla perfecta de cultura, historia y naturaleza, lo que la convierte en un destino verdaderamente único.
             </p>
-            <div class="space space--19"></div>
-            <p class="heading--20 color--666">
-            Santa Marta combines culture, history and nature in one place.
-            </p>
+            
         </div>
         <ul>
             <?php foreach ($items as $key => $item) { ?>

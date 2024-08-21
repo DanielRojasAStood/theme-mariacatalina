@@ -3,7 +3,7 @@
         <div class="sectionRsvp__content">
             <h2 class="heading--64 color--A98417">R.S.V.P.</h2>
             <div class="space space--19"></div>
-            <p class="heading--20 color--666">CELEBRATE WITH US!</p>
+            <p class="heading--20 color--666">CELEBRATE WITH US! <br> ¡CELEBRA CON NOSOTROS!</p>
             <div class="space space--30"></div>
             <p class="heading--14 color--333">Kindly respond by OCTOBER 00th, 2024</p>
             <div class="space space--11"></div>

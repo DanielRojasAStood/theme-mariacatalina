@@ -45,7 +45,7 @@
                     <div class="space space--11"></div>
                     <p class="heading--20">REGALOS</p>
                     <div class="space space--19"></div>
-                    <button type="button" class="button button--primary button--center" data-open-modal="modal-2">WISHING WELL</button>
+                    <button type="button" class="button button--primary button--center" data-open-modal="modal-3">WISHING WELL</button>
                 </div>
             </div>
             

@@ -5,9 +5,9 @@
             <div class="space space--19"></div>
             <p class="heading--20 color--666">CELEBRATE WITH US! <br> ¡CELEBRA CON NOSOTROS!</p>
             <div class="space space--30"></div>
-            <p class="heading--14 color--333">Kindly respond by OCTOBER 00th, 2024</p>
+            <p class="heading--14 color--333">Kindly respond by JANUARY 8th, 2025</p>
             <div class="space space--11"></div>
-            <p class="heading--14 color--333">Por favor conﬁrmar asistencia antes 00 de OCTUBRE del 2024</p>
+            <p class="heading--14 color--333">Por favor conﬁrmar asistencia antes 8 de ENERO del 2025</p>
             <div class="space space--44"></div>
         </div>
         <?php echo do_shortcode('[contact-form-7 id="c65ad8b" title="R.S.V.P"]')?>

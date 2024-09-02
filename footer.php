@@ -13,7 +13,7 @@
         ?>
         </button>
         <img
-          src="<?php echo IMG_BASE . 'formal-1.webp' ?>"
+          src="<?php echo IMG_BASE . 'formal-1-new.webp' ?>"
           alt=""
           id=""
         />
